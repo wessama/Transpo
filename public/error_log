@@ -1,0 +1,137 @@
+[30-Nov-2018 10:02:35 UTC] PHP Warning:  Unterminated comment starting line 22 in /home/smsmjvuu/Transpo/app/Http/Middleware/VerifyCsrfToken.php on line 22
+[30-Nov-2018 10:02:35 UTC] PHP Warning:  Unterminated comment starting line 22 in /home/smsmjvuu/Transpo/app/Http/Middleware/VerifyCsrfToken.php on line 22
+[30-Nov-2018 16:54:58 America/New_York] PHP Warning:  require(/home/smsmjvuu/www.faster-horses.net/../Transpo/vendor/autoload.php): failed to open stream: No such file or directory in /home/smsmjvuu/www.faster-horses.net/index.php on line 24
+[30-Nov-2018 16:54:58 America/New_York] PHP Fatal error:  require(): Failed opening required '/home/smsmjvuu/www.faster-horses.net/../Transpo/vendor/autoload.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/smsmjvuu/www.faster-horses.net/index.php on line 24
+[01-Dec-2018 07:18:00 America/New_York] PHP Fatal error:  Uncaught RuntimeException: A facade root has not been set. in /home/smsmjvuu/Transpo/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php:220
+Stack trace:
+#0 /home/smsmjvuu/Transpo/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(397): Illuminate\Support\Facades\Facade::__callStatic('replaceNamespac...', Array)
+#1 /home/smsmjvuu/Transpo/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(374): Illuminate\Foundation\Exceptions\Handler->registerErrorViewPaths()
+#2 /home/smsmjvuu/Transpo/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(289): Illuminate\Foundation\Exceptions\Handler->renderHttpException(Object(Symfony\Component\HttpKernel\Exception\HttpException))
+#3 /home/smsmjvuu/Transpo/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(188): Illuminate\Foundation\Exceptions\Handler->prepareResponse(Object(Illuminate\Http\Request), Object(Symfony\Component\HttpKernel\Exception\HttpException))
+#4 /home/s in /home/smsmjvuu/Transpo/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php on line 220
+[01-Dec-2018 07:18:02 America/New_York] PHP Fatal error:  Uncaught RuntimeException: A facade root has not been set. in /home/smsmjvuu/Transpo/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php:220
+Stack trace:
+#0 /home/smsmjvuu/Transpo/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(397): Illuminate\Support\Facades\Facade::__callStatic('replaceNamespac...', Array)
+#1 /home/smsmjvuu/Transpo/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(374): Illuminate\Foundation\Exceptions\Handler->registerErrorViewPaths()
+#2 /home/smsmjvuu/Transpo/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(289): Illuminate\Foundation\Exceptions\Handler->renderHttpException(Object(Symfony\Component\HttpKernel\Exception\HttpException))
+#3 /home/smsmjvuu/Transpo/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(188): Illuminate\Foundation\Exceptions\Handler->prepareResponse(Object(Illuminate\Http\Request), Object(Symfony\Component\HttpKernel\Exception\HttpException))
+#4 /home/s in /home/smsmjvuu/Transpo/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php on line 220
+[01-Dec-2018 07:18:03 America/New_York] PHP Fatal error:  Uncaught RuntimeException: A facade root has not been set. in /home/smsmjvuu/Transpo/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php:220
+Stack trace:
+#0 /home/smsmjvuu/Transpo/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(397): Illuminate\Support\Facades\Facade::__callStatic('replaceNamespac...', Array)
+#1 /home/smsmjvuu/Transpo/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(374): Illuminate\Foundation\Exceptions\Handler->registerErrorViewPaths()
+#2 /home/smsmjvuu/Transpo/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(289): Illuminate\Foundation\Exceptions\Handler->renderHttpException(Object(Symfony\Component\HttpKernel\Exception\HttpException))
+#3 /home/smsmjvuu/Transpo/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(188): Illuminate\Foundation\Exceptions\Handler->prepareResponse(Object(Illuminate\Http\Request), Object(Symfony\Component\HttpKernel\Exception\HttpException))
+#4 /home/s in /home/smsmjvuu/Transpo/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php on line 220
+[01-Dec-2018 07:18:05 America/New_York] PHP Fatal error:  Uncaught RuntimeException: A facade root has not been set. in /home/smsmjvuu/Transpo/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php:220
+Stack trace:
+#0 /home/smsmjvuu/Transpo/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(397): Illuminate\Support\Facades\Facade::__callStatic('replaceNamespac...', Array)
+#1 /home/smsmjvuu/Transpo/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(374): Illuminate\Foundation\Exceptions\Handler->registerErrorViewPaths()
+#2 /home/smsmjvuu/Transpo/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(289): Illuminate\Foundation\Exceptions\Handler->renderHttpException(Object(Symfony\Component\HttpKernel\Exception\HttpException))
+#3 /home/smsmjvuu/Transpo/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(188): Illuminate\Foundation\Exceptions\Handler->prepareResponse(Object(Illuminate\Http\Request), Object(Symfony\Component\HttpKernel\Exception\HttpException))
+#4 /home/s in /home/smsmjvuu/Transpo/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php on line 220
+[01-Dec-2018 07:18:10 America/New_York] PHP Fatal error:  Uncaught RuntimeException: A facade root has not been set. in /home/smsmjvuu/Transpo/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php:220
+Stack trace:
+#0 /home/smsmjvuu/Transpo/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(397): Illuminate\Support\Facades\Facade::__callStatic('replaceNamespac...', Array)
+#1 /home/smsmjvuu/Transpo/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(374): Illuminate\Foundation\Exceptions\Handler->registerErrorViewPaths()
+#2 /home/smsmjvuu/Transpo/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(289): Illuminate\Foundation\Exceptions\Handler->renderHttpException(Object(Symfony\Component\HttpKernel\Exception\HttpException))
+#3 /home/smsmjvuu/Transpo/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(188): Illuminate\Foundation\Exceptions\Handler->prepareResponse(Object(Illuminate\Http\Request), Object(Symfony\Component\HttpKernel\Exception\HttpException))
+#4 /home/s in /home/smsmjvuu/Transpo/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php on line 220
+[01-Dec-2018 07:18:14 America/New_York] PHP Fatal error:  Uncaught RuntimeException: A facade root has not been set. in /home/smsmjvuu/Transpo/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php:220
+Stack trace:
+#0 /home/smsmjvuu/Transpo/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(397): Illuminate\Support\Facades\Facade::__callStatic('replaceNamespac...', Array)
+#1 /home/smsmjvuu/Transpo/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(374): Illuminate\Foundation\Exceptions\Handler->registerErrorViewPaths()
+#2 /home/smsmjvuu/Transpo/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(289): Illuminate\Foundation\Exceptions\Handler->renderHttpException(Object(Symfony\Component\HttpKernel\Exception\HttpException))
+#3 /home/smsmjvuu/Transpo/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(188): Illuminate\Foundation\Exceptions\Handler->prepareResponse(Object(Illuminate\Http\Request), Object(Symfony\Component\HttpKernel\Exception\HttpException))
+#4 /home/s in /home/smsmjvuu/Transpo/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php on line 220
+[01-Dec-2018 07:18:15 America/New_York] PHP Fatal error:  Uncaught RuntimeException: A facade root has not been set. in /home/smsmjvuu/Transpo/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php:220
+Stack trace:
+#0 /home/smsmjvuu/Transpo/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(397): Illuminate\Support\Facades\Facade::__callStatic('replaceNamespac...', Array)
+#1 /home/smsmjvuu/Transpo/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(374): Illuminate\Foundation\Exceptions\Handler->registerErrorViewPaths()
+#2 /home/smsmjvuu/Transpo/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(289): Illuminate\Foundation\Exceptions\Handler->renderHttpException(Object(Symfony\Component\HttpKernel\Exception\HttpException))
+#3 /home/smsmjvuu/Transpo/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(188): Illuminate\Foundation\Exceptions\Handler->prepareResponse(Object(Illuminate\Http\Request), Object(Symfony\Component\HttpKernel\Exception\HttpException))
+#4 /home/s in /home/smsmjvuu/Transpo/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php on line 220
+[01-Dec-2018 07:18:19 America/New_York] PHP Fatal error:  Uncaught RuntimeException: A facade root has not been set. in /home/smsmjvuu/Transpo/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php:220
+Stack trace:
+#0 /home/smsmjvuu/Transpo/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(397): Illuminate\Support\Facades\Facade::__callStatic('replaceNamespac...', Array)
+#1 /home/smsmjvuu/Transpo/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(374): Illuminate\Foundation\Exceptions\Handler->registerErrorViewPaths()
+#2 /home/smsmjvuu/Transpo/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(289): Illuminate\Foundation\Exceptions\Handler->renderHttpException(Object(Symfony\Component\HttpKernel\Exception\HttpException))
+#3 /home/smsmjvuu/Transpo/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(188): Illuminate\Foundation\Exceptions\Handler->prepareResponse(Object(Illuminate\Http\Request), Object(Symfony\Component\HttpKernel\Exception\HttpException))
+#4 /home/s in /home/smsmjvuu/Transpo/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php on line 220
+[01-Dec-2018 07:18:21 America/New_York] PHP Fatal error:  Uncaught RuntimeException: A facade root has not been set. in /home/smsmjvuu/Transpo/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php:220
+Stack trace:
+#0 /home/smsmjvuu/Transpo/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(397): Illuminate\Support\Facades\Facade::__callStatic('replaceNamespac...', Array)
+#1 /home/smsmjvuu/Transpo/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(374): Illuminate\Foundation\Exceptions\Handler->registerErrorViewPaths()
+#2 /home/smsmjvuu/Transpo/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(289): Illuminate\Foundation\Exceptions\Handler->renderHttpException(Object(Symfony\Component\HttpKernel\Exception\HttpException))
+#3 /home/smsmjvuu/Transpo/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(188): Illuminate\Foundation\Exceptions\Handler->prepareResponse(Object(Illuminate\Http\Request), Object(Symfony\Component\HttpKernel\Exception\HttpException))
+#4 /home/s in /home/smsmjvuu/Transpo/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php on line 220
+[01-Dec-2018 07:18:21 America/New_York] PHP Fatal error:  Uncaught RuntimeException: A facade root has not been set. in /home/smsmjvuu/Transpo/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php:220
+Stack trace:
+#0 /home/smsmjvuu/Transpo/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(397): Illuminate\Support\Facades\Facade::__callStatic('replaceNamespac...', Array)
+#1 /home/smsmjvuu/Transpo/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(374): Illuminate\Foundation\Exceptions\Handler->registerErrorViewPaths()
+#2 /home/smsmjvuu/Transpo/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(289): Illuminate\Foundation\Exceptions\Handler->renderHttpException(Object(Symfony\Component\HttpKernel\Exception\HttpException))
+#3 /home/smsmjvuu/Transpo/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(188): Illuminate\Foundation\Exceptions\Handler->prepareResponse(Object(Illuminate\Http\Request), Object(Symfony\Component\HttpKernel\Exception\HttpException))
+#4 /home/s in /home/smsmjvuu/Transpo/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php on line 220
+[01-Dec-2018 07:18:23 America/New_York] PHP Fatal error:  Uncaught RuntimeException: A facade root has not been set. in /home/smsmjvuu/Transpo/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php:220
+Stack trace:
+#0 /home/smsmjvuu/Transpo/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(397): Illuminate\Support\Facades\Facade::__callStatic('replaceNamespac...', Array)
+#1 /home/smsmjvuu/Transpo/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(374): Illuminate\Foundation\Exceptions\Handler->registerErrorViewPaths()
+#2 /home/smsmjvuu/Transpo/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(289): Illuminate\Foundation\Exceptions\Handler->renderHttpException(Object(Symfony\Component\HttpKernel\Exception\HttpException))
+#3 /home/smsmjvuu/Transpo/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(188): Illuminate\Foundation\Exceptions\Handler->prepareResponse(Object(Illuminate\Http\Request), Object(Symfony\Component\HttpKernel\Exception\HttpException))
+#4 /home/s in /home/smsmjvuu/Transpo/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php on line 220
+[01-Dec-2018 07:18:23 America/New_York] PHP Fatal error:  Uncaught RuntimeException: A facade root has not been set. in /home/smsmjvuu/Transpo/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php:220
+Stack trace:
+#0 /home/smsmjvuu/Transpo/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(397): Illuminate\Support\Facades\Facade::__callStatic('replaceNamespac...', Array)
+#1 /home/smsmjvuu/Transpo/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(374): Illuminate\Foundation\Exceptions\Handler->registerErrorViewPaths()
+#2 /home/smsmjvuu/Transpo/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(289): Illuminate\Foundation\Exceptions\Handler->renderHttpException(Object(Symfony\Component\HttpKernel\Exception\HttpException))
+#3 /home/smsmjvuu/Transpo/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(188): Illuminate\Foundation\Exceptions\Handler->prepareResponse(Object(Illuminate\Http\Request), Object(Symfony\Component\HttpKernel\Exception\HttpException))
+#4 /home/s in /home/smsmjvuu/Transpo/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php on line 220
+[01-Dec-2018 07:18:23 America/New_York] PHP Fatal error:  Uncaught RuntimeException: A facade root has not been set. in /home/smsmjvuu/Transpo/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php:220
+Stack trace:
+#0 /home/smsmjvuu/Transpo/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(397): Illuminate\Support\Facades\Facade::__callStatic('replaceNamespac...', Array)
+#1 /home/smsmjvuu/Transpo/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(374): Illuminate\Foundation\Exceptions\Handler->registerErrorViewPaths()
+#2 /home/smsmjvuu/Transpo/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(289): Illuminate\Foundation\Exceptions\Handler->renderHttpException(Object(Symfony\Component\HttpKernel\Exception\HttpException))
+#3 /home/smsmjvuu/Transpo/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(188): Illuminate\Foundation\Exceptions\Handler->prepareResponse(Object(Illuminate\Http\Request), Object(Symfony\Component\HttpKernel\Exception\HttpException))
+#4 /home/s in /home/smsmjvuu/Transpo/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php on line 220
+[01-Dec-2018 07:18:24 America/New_York] PHP Fatal error:  Uncaught RuntimeException: A facade root has not been set. in /home/smsmjvuu/Transpo/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php:220
+Stack trace:
+#0 /home/smsmjvuu/Transpo/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(397): Illuminate\Support\Facades\Facade::__callStatic('replaceNamespac...', Array)
+#1 /home/smsmjvuu/Transpo/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(374): Illuminate\Foundation\Exceptions\Handler->registerErrorViewPaths()
+#2 /home/smsmjvuu/Transpo/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(289): Illuminate\Foundation\Exceptions\Handler->renderHttpException(Object(Symfony\Component\HttpKernel\Exception\HttpException))
+#3 /home/smsmjvuu/Transpo/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(188): Illuminate\Foundation\Exceptions\Handler->prepareResponse(Object(Illuminate\Http\Request), Object(Symfony\Component\HttpKernel\Exception\HttpException))
+#4 /home/s in /home/smsmjvuu/Transpo/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php on line 220
+[01-Dec-2018 07:18:24 America/New_York] PHP Fatal error:  Uncaught RuntimeException: A facade root has not been set. in /home/smsmjvuu/Transpo/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php:220
+Stack trace:
+#0 /home/smsmjvuu/Transpo/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(397): Illuminate\Support\Facades\Facade::__callStatic('replaceNamespac...', Array)
+#1 /home/smsmjvuu/Transpo/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(374): Illuminate\Foundation\Exceptions\Handler->registerErrorViewPaths()
+#2 /home/smsmjvuu/Transpo/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(289): Illuminate\Foundation\Exceptions\Handler->renderHttpException(Object(Symfony\Component\HttpKernel\Exception\HttpException))
+#3 /home/smsmjvuu/Transpo/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(188): Illuminate\Foundation\Exceptions\Handler->prepareResponse(Object(Illuminate\Http\Request), Object(Symfony\Component\HttpKernel\Exception\HttpException))
+#4 /home/s in /home/smsmjvuu/Transpo/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php on line 220
+[01-Dec-2018 07:18:25 America/New_York] PHP Fatal error:  Uncaught RuntimeException: A facade root has not been set. in /home/smsmjvuu/Transpo/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php:220
+Stack trace:
+#0 /home/smsmjvuu/Transpo/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(397): Illuminate\Support\Facades\Facade::__callStatic('replaceNamespac...', Array)
+#1 /home/smsmjvuu/Transpo/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(374): Illuminate\Foundation\Exceptions\Handler->registerErrorViewPaths()
+#2 /home/smsmjvuu/Transpo/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(289): Illuminate\Foundation\Exceptions\Handler->renderHttpException(Object(Symfony\Component\HttpKernel\Exception\HttpException))
+#3 /home/smsmjvuu/Transpo/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(188): Illuminate\Foundation\Exceptions\Handler->prepareResponse(Object(Illuminate\Http\Request), Object(Symfony\Component\HttpKernel\Exception\HttpException))
+#4 /home/s in /home/smsmjvuu/Transpo/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php on line 220
+[01-Dec-2018 07:18:27 America/New_York] PHP Fatal error:  Uncaught RuntimeException: A facade root has not been set. in /home/smsmjvuu/Transpo/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php:220
+Stack trace:
+#0 /home/smsmjvuu/Transpo/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(397): Illuminate\Support\Facades\Facade::__callStatic('replaceNamespac...', Array)
+#1 /home/smsmjvuu/Transpo/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(374): Illuminate\Foundation\Exceptions\Handler->registerErrorViewPaths()
+#2 /home/smsmjvuu/Transpo/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(289): Illuminate\Foundation\Exceptions\Handler->renderHttpException(Object(Symfony\Component\HttpKernel\Exception\HttpException))
+#3 /home/smsmjvuu/Transpo/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(188): Illuminate\Foundation\Exceptions\Handler->prepareResponse(Object(Illuminate\Http\Request), Object(Symfony\Component\HttpKernel\Exception\HttpException))
+#4 /home/s in /home/smsmjvuu/Transpo/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php on line 220
+[01-Dec-2018 07:18:28 America/New_York] PHP Fatal error:  Uncaught RuntimeException: A facade root has not been set. in /home/smsmjvuu/Transpo/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php:220
+Stack trace:
+#0 /home/smsmjvuu/Transpo/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(397): Illuminate\Support\Facades\Facade::__callStatic('replaceNamespac...', Array)
+#1 /home/smsmjvuu/Transpo/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(374): Illuminate\Foundation\Exceptions\Handler->registerErrorViewPaths()
+#2 /home/smsmjvuu/Transpo/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(289): Illuminate\Foundation\Exceptions\Handler->renderHttpException(Object(Symfony\Component\HttpKernel\Exception\HttpException))
+#3 /home/smsmjvuu/Transpo/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(188): Illuminate\Foundation\Exceptions\Handler->prepareResponse(Object(Illuminate\Http\Request), Object(Symfony\Component\HttpKernel\Exception\HttpException))
+#4 /home/s in /home/smsmjvuu/Transpo/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php on line 220
+[01-Dec-2018 07:18:32 America/New_York] PHP Fatal error:  Uncaught RuntimeException: A facade root has not been set. in /home/smsmjvuu/Transpo/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php:220
+Stack trace:
+#0 /home/smsmjvuu/Transpo/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(397): Illuminate\Support\Facades\Facade::__callStatic('replaceNamespac...', Array)
+#1 /home/smsmjvuu/Transpo/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(374): Illuminate\Foundation\Exceptions\Handler->registerErrorViewPaths()
+#2 /home/smsmjvuu/Transpo/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(289): Illuminate\Foundation\Exceptions\Handler->renderHttpException(Object(Symfony\Component\HttpKernel\Exception\HttpException))
+#3 /home/smsmjvuu/Transpo/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(188): Illuminate\Foundation\Exceptions\Handler->prepareResponse(Object(Illuminate\Http\Request), Object(Symfony\Component\HttpKernel\Exception\HttpException))
+#4 /home/s in /home/smsmjvuu/Transpo/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php on line 220

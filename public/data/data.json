@@ -1,0 +1,103 @@
+{
+    "projects": [ 
+        {
+            "preview": {
+                "img": "images/Works/Profile.png"
+            },
+            "images": {
+                "img1": "images/Works/Profile.png"
+            },
+            "details": {
+                "title": "Profile",
+                "info": "First, set up your profile by visiting the 'Profile' tab below the 'Account' dropdown menu.",
+                "skills": "You must set up your profile before being able to use the Dashboard.",
+                "datecompleted": "June 01, 2016",
+                "link": "https://www.myam.app/account/profile"
+            }
+        },
+        {
+            "preview": {
+                "img": "images/Works/Settings.png"
+            },
+            "images": {
+                "img1": "images/Works/Settings.png"
+            },
+            "details": {
+                "title": "Settings",
+                "info": "Edit your account settings by visiting the 'Settings' tab below the 'Account' dropdown menu.",
+                "skills": "You can modify your e-mail, password, and username here.",
+                "datecompleted": "June 01, 2016",
+                "link": "myam.app/account/settings"
+            }
+        },
+        {
+            "preview": {
+                "img": "images/Works/Courses1.png"
+            },
+            "images": {
+                "img1": "images/Works/Courses1.png",
+                "img2": "images/Works/Courses2.png",
+                "img3": "images/Works/Courses3.png",
+                "img4": "images/Works/Courses4.png"
+            },
+            "details": {
+                "title": "Manage your courses",
+                "info": "Add your courses and lectures/labs/tutorials by visiting the 'Manage Courses' tab.<br>Swipe left and right to view screenshot examples.",
+                "skills": "<strong>Screenshot 1</strong><br> First, choose your semester<br><strong>Screenshot 2</strong><br> Add more course fields using the blue '+' button. Then begin searching for your course by simply typing it in, the auto-complete field will do the rest for you.<br><strong>Screenshot 3</strong><br> When you're done, start adding your lectures as shown in the example. Simply tap the days you have this class on, and choose its type below.",
+                "datecompleted": "June 01, 2016",
+                "link": "myam.app/dashboard/courses"
+            }
+        },
+        {
+            "preview": {
+                "img": "images/Works/Classes1.png"
+            },
+            "images": {
+                "img1": "images/Works/Classes1.png",
+                "img2": "images/Works/Classes2.png",
+                "img3": "images/Works/Classes3.png"
+            },
+            "details": {
+                "title": "Manage your classes",
+                "info": "Edit your classes and view their schedule by visiting the 'Manage Classes' tab. Swipe left and right to view screenshot examples.",
+                "skills": "<strong>Screenshot 1</strong><br> You can edit an added class by clicking the 'View' button in the data table at the bottom of the page.<br><strong>Screenshot 2</strong><br> You can switch the class type here.<br><strong>Screenshot 3</strong><br> You can also add a new class using the 'Add a class' tab on the class panel. This will add a new lecture/lab/tutorial for the course corresponding to the class selected.",
+                "datecompleted": "June 01, 2016",
+                "link": "myam.app/dashboard/classes"
+            }
+        },
+        {
+            "preview": {
+                "img": "images/Works/Dashboard1.png"
+            },
+            "images": {
+                "img1": "images/Works/Dashboard1.png",
+                "img2": "images/Works/Dashboard2.png",
+                "img3": "images/Works/Dashboard3.png",
+                "img4": "images/Works/Dashboard4.png"
+            },
+            "details": {
+                "title": "Your attendance Dashboard",
+                "info": "Visit the attendance Dashboard using the 'Dashboard' tab. This is where the essence of our web application is! You will only have to perform the previous steps once per semester. The application automatically logs the date of your future lectures/labs/tutorials for you. All you have to do is confirm whether or not you attended them, and your absence is automatically calculated for you using your university's official absence formula (for example, 25% absence means you have exceeded the allowed absence rate for this course.",
+                "skills": "<strong>Screenshot 1</strong><br> Use the 'Actions' dropdown menu to choose an action. There are three allowed actions. 'Attended' means you have attended this class. 'Absent' means your name wasn't logged on the attendance sheet. 'Cancelled' means this class wasn't held at all.<br><strong>Screenshot 2</strong><br> You can handle multiple classes at once using the checkmark next to each class, then selecting an action from the 'With selected' dropdown menu, then tapping 'Save Changes' below.<br><strong>Screenshot 3</strong><br> Now review your absence in the 'Absence Overview' panel.<br><strong>Screenshot 4</strong><br> A full calendar containing all of your previous and future classes is located in the 'Calendar' panel. Classes highlighted in red are classes you were Absent in. Classes highlighted in green are classed you Attended. Classes highlighted in orange are Cancelled. No action will be taken on a class unless you perform it yourself.",
+                "datecompleted": "June 01, 2016",
+                "link": "myam.app/dashboard/home"
+            }
+        },
+        {
+            "preview": {
+                "img": "images/Works/History.png"
+            },
+            "images": {
+                "img1": "images/Works/History.png"
+            },
+            "details": {
+                "title": "Your class History",
+                "info": "You can review previously approved classes by visiting the History tab.",
+                "skills": "Change the status of previously handled classes here. For example, you may have marked a class as Absent only to find out your friend took your attendance for you when your name was called out (wink). Easily switch its status to 'Attended' here. Be mindful that changes you make here affect your absence calculation.",
+                "datecompleted": "June 01, 2016",
+                "link": "myam.app/dashboard/history"
+            }
+        }
+        
+    ]
+}

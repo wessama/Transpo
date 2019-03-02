@@ -1,0 +1,1 @@
+<img src="{{ asset('storage/') }}{{ '/'.Auth::user()->avatar }}" alt="Avatar" />
