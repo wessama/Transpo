@@ -49,11 +49,6 @@
   <div class='page-wrapper'>
     <!-- MENU SIDEBAR-->
     <aside class="menu-sidebar2">
-      <div class="logo">
-        <a>
-
-        </a>
-      </div>
       <div class="menu-sidebar2__content js-scrollbar1">
         @include('includes.partials.sidebar')
       </div>

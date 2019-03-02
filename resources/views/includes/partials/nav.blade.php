@@ -4,23 +4,7 @@
     <div class="section__content section__content--p30">
         <div class="container-fluid">
             <div class="header-wrap2">
-                <div class="logo d-block d-lg-none">
-                    <a href="#">
-                        <!--<img src="{{ asset('images/icon/logo-top.png') }}" alt="Logo" />-->
-                    </a>
-                </div>
                 <div class="header-button2">
-                    <!--<div class="header-button-item has-noti js-item-menu">
-                        <i class="zmdi zmdi-notifications"></i>
-                        <div class="notifi-dropdown js-dropdown">
-                            <div class="notifi__title">
-                                <p>You have 0 new notifications</p>
-                            </div>
-                            <div class="notifi__footer">
-                                <a href="{{ route('home') }}">Mark as read</a>
-                            </div>
-                        </div>
-                    </div>-->
                     <div class="header-button-item mr-0 js-sidebar-btn">
                         <i class="zmdi zmdi-menu"></i>
                     </div>

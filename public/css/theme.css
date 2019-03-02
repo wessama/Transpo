@@ -390,7 +390,7 @@ section {
 }
 
 .login-content {
-    background: #fff;
+    background: #231f20;
     padding: 30px 30px 20px;
     -webkit-border-radius: 2px;
     -moz-border-radius: 2px;
@@ -2409,7 +2409,7 @@ section {
 
 .header-desktop2 {
     height: 75px;
-    background: #323c50;
+    background: #231f20;
     position: fixed;
     z-index: 1001;
     top: 0;
@@ -14736,7 +14736,7 @@ section {
 }
 
 .bg-overlay--blue {
-    background: #323c50;
+    background: #231f20;
 }
 
 .bg-c1 {
