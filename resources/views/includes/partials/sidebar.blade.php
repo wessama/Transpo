@@ -13,10 +13,10 @@
 			<a href="{{ route('home') }}">
 				<i class="fas fa-home"></i>Home</a>
 			</li>
-			<li class="{{ Route::currentRouteNamed('location') ? 'active' : '' }}">
+			<!--<li class="{{ Route::currentRouteNamed('location') ? 'active' : '' }}">
 			<a href="{{ route('location') }}">
-				<i class="fas fa-map-marker-alt"></i>Track your bus</a>
-			</li>
+				<i class="fas fa-map-marker-alt fa-disabled"></i>Track your bus</a>
+			</li>-->
 			@if(Voyager::can('browse_bus_stops'))
 			<li class="has-sub">
 				<a class="js-arrow" href="#">
